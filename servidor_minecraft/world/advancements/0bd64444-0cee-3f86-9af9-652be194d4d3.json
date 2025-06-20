@@ -105,6 +105,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-06-20 20:47:54 +0000",
+      "minecraft:beach": "2025-06-20 20:58:38 +0000",
       "minecraft:river": "2025-06-20 20:17:26 +0000",
       "minecraft:dripstone_caves": "2025-06-20 20:27:34 +0000",
       "minecraft:forest": "2025-06-20 20:17:32 +0000",
@@ -2439,17 +2440,17 @@
     },
     "done": false
   },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-06-20 20:54:16 +0000"
-    },
-    "done": true
-  },
   "bakery:main/get_all_baked_goods": {
     "criteria": {
       "bakery:bun": "2025-06-20 20:53:44 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-20 20:54:16 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
