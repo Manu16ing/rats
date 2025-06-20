@@ -2452,5 +2452,17 @@
     },
     "done": true
   },
+  "rats:recipes/misc/rat_pelt_to_leather": {
+    "criteria": {
+      "has_pelt": "2025-06-20 21:05:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_banner_pattern": {
+    "criteria": {
+      "has_pelt": "2025-06-20 21:05:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

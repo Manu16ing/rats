@@ -957,6 +957,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-20 20:13:26 +0000",
       "minecraft:witch": "2025-06-20 20:58:14 +0000",
+      "minecraft:enderman": "2025-06-20 21:05:36 +0000",
       "minecraft:zombie": "2025-06-20 20:12:51 +0000"
     },
     "done": false
@@ -3279,12 +3280,6 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/poison_upgrade": {
-    "criteria": {
-      "has_dust": "2025-06-20 20:58:15 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-06-20 20:58:04 +0000"
@@ -3297,7 +3292,25 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-20 20:58:14 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/poison_upgrade": {
+    "criteria": {
+      "has_dust": "2025-06-20 20:58:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-20 20:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-20 20:58:15 +0000"
     },
@@ -3306,18 +3319,6 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-06-20 20:58:33 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-06-20 20:58:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-20 20:58:15 +0000"
     },
     "done": true
   },
