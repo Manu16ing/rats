@@ -104,6 +104,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-06-20 20:47:54 +0000",
       "minecraft:river": "2025-06-20 20:17:26 +0000",
       "minecraft:dripstone_caves": "2025-06-20 20:27:34 +0000",
       "minecraft:forest": "2025-06-20 20:17:32 +0000",
@@ -623,6 +624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-20 20:45:25 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/mud_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-06-20 20:19:38 +0000"
@@ -719,6 +726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-20 20:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-06-20 20:17:24 +0000"
@@ -758,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-20 20:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-20 20:30:57 +0000"
@@ -767,6 +786,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-06-20 20:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-20 20:45:25 +0000"
     },
     "done": true
   },
@@ -803,6 +828,12 @@
   "bakery:recipes/bread_knife": {
     "criteria": {
       "has_iron_ingot": "2025-06-20 20:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-20 20:45:53 +0000"
     },
     "done": true
   },
@@ -896,6 +927,12 @@
     },
     "done": true
   },
+  "globalxp:recipes/misc/xp_block": {
+    "criteria": {
+      "has_emerald": "2025-06-20 20:46:02 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/combat/fisherman_hat": {
     "criteria": {
       "has_string": "2025-06-20 20:30:57 +0000"
@@ -917,6 +954,12 @@
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-20 20:20:42 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/combat/piper_hat": {
+    "criteria": {
+      "has_feather": "2025-06-20 20:48:12 +0000"
     },
     "done": true
   },
@@ -1106,6 +1149,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-20 20:46:41 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/cooked_rat_campfire": {
     "criteria": {
       "has_rat": "2025-06-20 20:40:27 +0000"
@@ -1253,6 +1302,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-20 20:27:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-06-20 20:49:18 +0000"
     },
     "done": true
   },
@@ -1454,6 +1509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-20 20:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-20 20:22:49 +0000"
@@ -1550,6 +1611,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-20 20:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-20 20:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-20 20:27:41 +0000"
@@ -1571,6 +1644,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-20 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-20 20:46:02 +0000"
     },
     "done": true
   },
@@ -1598,6 +1677,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/pickpocket_upgrade": {
+    "criteria": {
+      "has_emerald": "2025-06-20 20:46:02 +0000"
+    },
+    "done": true
+  },
   "scannable:recipes/tools/scanner": {
     "criteria": {
       "is_delving": "2025-06-20 20:26:46 +0000"
@@ -1619,6 +1704,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-06-20 20:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-20 20:45:53 +0000"
     },
     "done": true
   },
@@ -1778,6 +1869,12 @@
     },
     "done": true
   },
+  "rats:recipes/food/herb_bundle": {
+    "criteria": {
+      "has_flower": "2025-06-20 20:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-20 20:27:41 +0000"
@@ -1811,6 +1908,12 @@
   "dungeonnowloading:recipes/misc/spawner_frame": {
     "criteria": {
       "has_spawner_fragment": "2025-06-20 20:39:09 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-06-20 20:46:41 +0000"
     },
     "done": true
   },
@@ -1853,6 +1956,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-20 20:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-20 20:45:25 +0000"
     },
     "done": true
   },
@@ -1958,6 +2067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-20 20:46:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-20 20:27:41 +0000"
@@ -2012,6 +2127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-20 20:45:25 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/undead_upgrade": {
     "criteria": {
       "has_bone": "2025-06-20 20:11:21 +0000"
@@ -2033,6 +2154,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-20 20:27:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_book": "2025-06-20 20:45:53 +0000"
     },
     "done": true
   },
@@ -2093,6 +2220,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-06-20 20:11:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_feather": "2025-06-20 20:48:12 +0000"
     },
     "done": true
   },
@@ -2222,6 +2355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-20 20:46:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-06-20 20:30:49 +0000"
@@ -2285,6 +2424,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-06-20 20:11:59 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/enchanter_upgrade": {
+    "criteria": {
+      "has_book": "2025-06-20 20:45:53 +0000"
     },
     "done": true
   },

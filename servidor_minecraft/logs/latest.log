@@ -5770,3 +5770,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Jun2025 20:43:30.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AHXZ: Set own game mode to Survival Mode]
 [20Jun2025 20:44:10.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AHXZ moved too quickly! 2.211233021828626,-0.3557198302170974,-9.859495946134132
 [20Jun2025 20:46:41.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Ice Bucket Challenge]
+[20Jun2025 20:48:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Birds of a Feather]
+[20Jun2025 20:49:18.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Birds of a Feather]
+[20Jun2025 20:50:20.521] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18245, l='ServerLevel[world]', x=280.50, y=-53.00, z=935.50] as it would cause deadlock
+[20Jun2025 20:50:20.522] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18247, l='ServerLevel[world]', x=280.50, y=-53.00, z=943.50] as it would cause deadlock
+[20Jun2025 20:50:21.130] [Worker-Main-21/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/18262, l='ServerLevel[world]', x=320.50, y=-28.00, z=936.50] as it would cause deadlock
+[20Jun2025 20:50:22.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AHXZ moved too quickly! -3.909778360855171,-2.7350570829800205,8.848752006633163
+[20Jun2025 20:50:31.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[20Jun2025 20:50:32.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jun2025 20:50:32.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jun2025 20:50:32.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MHgamer200 lost connection: Server closed
+[20Jun2025 20:50:32.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 left the game
+[20Jun2025 20:50:32.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
