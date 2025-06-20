@@ -5719,3 +5719,54 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Jun2025 20:17:41.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Cowhab the Mean'/4081, l='ServerLevel[world]', x=176.99, y=64.00, z=-48.06] died: Cowhab the Mean was slain by MHgamer200
 [20Jun2025 20:17:43.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has completed the challenge [He Wasn't So Strong]
 [20Jun2025 20:18:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Chest Slayer]
+[20Jun2025 20:18:51.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [A Strange Grave Dust]
+[20Jun2025 20:19:38.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Acquire Hardware]
+[20Jun2025 20:20:47.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Acquire Hardware]
+[20Jun2025 20:22:03.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Suit Up]
+[20Jun2025 20:22:39.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [I Found It Underground]
+[20Jun2025 20:22:49.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Isn't It Iron Pick]
+[20Jun2025 20:26:52.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Apothic Affixes]
+[20Jun2025 20:26:52.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [I Found It Underground]
+[20Jun2025 20:28:24.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Reverend Jake the Special'/8507, l='ServerLevel[world]', x=337.32, y=-1.00, z=279.70] died: Reverend Jake the Special was slain by AHXZ
+[20Jun2025 20:28:24.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has completed the challenge [He Wasn't So Strong]
+[20Jun2025 20:28:31.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Simple Dungeon Room]
+[20Jun2025 20:30:49.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Knowledge of Death]
+[20Jun2025 20:30:49.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Ashes 'n Bones]
+[20Jun2025 20:30:56.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Ambush]
+[20Jun2025 20:31:00.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Diamonds!]
+[20Jun2025 20:32:04.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AHXZ moved too quickly! 3.2244152730153246,1.57672035963774,9.937274339439966
+[20Jun2025 20:32:05.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Isn't It Iron Pick]
+[20Jun2025 20:33:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Knowledge of Death]
+[20Jun2025 20:33:37.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Ashes 'n Bones]
+[20Jun2025 20:34:04.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [The Secrets of Enchanting]
+[20Jun2025 20:34:48.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Not a Diamond]
+[20Jun2025 20:36:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Not a Diamond]
+[20Jun2025 20:37:02.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MHgamer200: Teleported MHgamer200 to AHXZ]
+[20Jun2025 20:37:39.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AHXZ moved too quickly! 0.8096384561377192,-0.6073954500486529,9.99438081701004
+[20Jun2025 20:37:46.373] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12372, l='ServerLevel[world]', x=269.50, y=-28.00, z=740.50] as it would cause deadlock
+[20Jun2025 20:37:46.378] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12374, l='ServerLevel[world]', x=269.50, y=-28.00, z=748.50] as it would cause deadlock
+[20Jun2025 20:37:46.557] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12380, l='ServerLevel[world]', x=244.50, y=-28.00, z=740.50] as it would cause deadlock
+[20Jun2025 20:37:46.559] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12382, l='ServerLevel[world]', x=244.50, y=-28.00, z=748.50] as it would cause deadlock
+[20Jun2025 20:37:58.394] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12519, l='ServerLevel[world]', x=312.50, y=-28.00, z=798.50] as it would cause deadlock
+[20Jun2025 20:38:04.410] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12621, l='ServerLevel[world]', x=316.50, y=-53.00, z=809.50] as it would cause deadlock
+[20Jun2025 20:38:04.425] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12623, l='ServerLevel[world]', x=312.50, y=-28.00, z=806.50] as it would cause deadlock
+[20Jun2025 20:38:04.583] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12625, l='ServerLevel[world]', x=324.50, y=-53.00, z=809.50] as it would cause deadlock
+[20Jun2025 20:38:48.803] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12937, l='ServerLevel[world]', x=226.50, y=-3.00, z=853.50] as it would cause deadlock
+[20Jun2025 20:38:50.382] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12955, l='ServerLevel[world]', x=390.50, y=-53.00, z=872.50] as it would cause deadlock
+[20Jun2025 20:38:50.382] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12957, l='ServerLevel[world]', x=398.50, y=-53.00, z=872.50] as it would cause deadlock
+[20Jun2025 20:38:52.290] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12999, l='ServerLevel[world]', x=232.50, y=-3.00, z=873.50] as it would cause deadlock
+[20Jun2025 20:38:56.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12732, l='ServerLevel[world]', x=-5.50, y=-59.00, z=-2.50] died, message: 'Unemployed suffocated in a wall'
+[20Jun2025 20:38:56.375] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12735, l='ServerLevel[world]', x=-3.50, y=-59.00, z=-2.50] died, message: 'Unemployed suffocated in a wall'
+[20Jun2025 20:38:58.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Far From Perfect]
+[20Jun2025 20:39:04.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [Suit Up]
+[20Jun2025 20:39:13.923] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13178, l='ServerLevel[world]', x=230.50, y=-3.00, z=911.50] as it would cause deadlock
+[20Jun2025 20:39:13.957] [Worker-Main-21/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13181, l='ServerLevel[world]', x=222.50, y=-3.00, z=911.50] as it would cause deadlock
+[20Jun2025 20:39:15.337] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13200, l='ServerLevel[world]', x=398.50, y=-53.00, z=897.50] as it would cause deadlock
+[20Jun2025 20:39:15.341] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13202, l='ServerLevel[world]', x=390.50, y=-53.00, z=897.50] as it would cause deadlock
+[20Jun2025 20:39:20.702] [Worker-Main-22/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13251, l='ServerLevel[world]', x=316.50, y=-28.00, z=912.50] as it would cause deadlock
+[20Jun2025 20:39:21.064] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13257, l='ServerLevel[world]', x=324.50, y=-28.00, z=912.50] as it would cause deadlock
+[20Jun2025 20:42:54.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AHXZ: Set own game mode to Spectator Mode]
+[20Jun2025 20:42:57.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MHgamer200 has made the advancement [A Lighthouse in Your Eyes]
+[20Jun2025 20:43:30.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AHXZ: Set own game mode to Survival Mode]
+[20Jun2025 20:44:10.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AHXZ moved too quickly! 2.211233021828626,-0.3557198302170974,-9.859495946134132
+[20Jun2025 20:46:41.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AHXZ has made the advancement [Ice Bucket Challenge]
